@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |s|
   s.name         = "RNZoomUs"
   s.version      = "1.0.0"
@@ -6,13 +5,13 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNZoomUs
                    DESC
-  s.homepage     = "https://zoom.us/"
+  s.homepage     = "https://github.com/mieszko4/react-native-zoom-us"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
+  s.author       = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNZoomUs.git", :tag => "master" }
-  s.source_files  = "RNZoomUs/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/mieszko4/react-native-zoom-us.git", :tag => "master" }
+  s.source_files = "RNZoomUs/**/*.{h,m}"
   s.requires_arc = true
 
 
@@ -20,5 +19,3 @@ Pod::Spec.new do |s|
   #s.dependency "others"
 
 end
-
-  

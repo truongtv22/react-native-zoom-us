@@ -135,4 +135,8 @@ await ZoomUs.joinMeeting(
 );
 ```
 
-See demo usage of this library: https://github.com/mieszko4/react-native-zoom-us-test
+## Example
+Go inside `demo` folder and run:
+```bash
+yarn & yarn start
+```
